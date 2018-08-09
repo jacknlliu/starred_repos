@@ -104,6 +104,7 @@ My starred repositories.
 |----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
 | [trash-cli](https://github.com/andreafrancia/trash-cli) | Command line interface to the freedesktop.org trashcan |  Python   | GPL-2.0 | [github](https://github.com/andreafrancia/trash-cli) | ![andreafrancia/trash-cli](https://img.shields.io/github/stars/andreafrancia/trash-cli.svg?style=flat&label=Star&maxAge=86400) |     |
 | [autojump](https://github.com/wting/autojump) | A cd command that learns - easily navigate directories from the command line |  Python   | GPL-3.0 | [github](https://github.com/wting/autojump) | ![wting/autojump](https://img.shields.io/github/stars/wting/autojump.svg?style=flat&label=Star&maxAge=86400) |     |
+| [ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console |  Python   | GPL-3.0 | [github](https://github.com/ranger/ranger) | ![ranger/ranger](https://img.shields.io/github/stars/ranger/ranger.svg?style=flat&label=Star&maxAge=86400) |     |
 
 
 ## Writing
