@@ -45,6 +45,7 @@ My starred repositories.
 | [pagmo2](https://github.com/esa/pagmo2) | A C++ / Python platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model | Python, C++ | GPL3, LGPL3 | [github](https://github.com/esa/pagmo2) | ![pagmo2](https://img.shields.io/github/stars/esa/pagmo2.svg?style=flat&label=Star&maxAge=86400) |         |
 | [pybind11](https://github.com/pybind/pybind11) | a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code | C++       |          | [github](https://github.com/pybind/pybind11) | ![pybind/pybind11](https://img.shields.io/github/stars/pybind/pybind11.svg?style=flat&label=Star&maxAge=86400) |         |
 | [Eigen3ToPython](https://github.com/jrl-umi3218/Eigen3ToPython) | Provide Eigen3 to numpy conversion |  Python    | LGPL-3.0 | [github](https://github.com/jrl-umi3218/Eigen3ToPython) | ![jrl-umi3218/Eigen3ToPython](https://img.shields.io/github/stars/jrl-umi3218/Eigen3ToPython.svg?style=flat&label=Star&maxAge=86400) |     |
+| [jupyterlab](https://github.com/jupyterlab/jupyterlab) | JupyterLab computational environment |  JavaScript   | MIT | [github](https://github.com/jupyterlab/jupyterlab) | ![jupyterlab/jupyterlab](https://img.shields.io/github/stars/jupyterlab/jupyterlab.svg?style=flat&label=Star&maxAge=86400) |  JupyterLab is the next-generation user interface for Project Jupyter. Eventually, JupyterLab will replace the classic Jupyter Notebook.|
 
 
 ## Robotics
