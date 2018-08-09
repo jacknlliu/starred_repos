@@ -56,7 +56,7 @@ My starred repositories.
 | [RoboDK-API](https://github.com/RoboDK/RoboDK-API) | Implementation of the RoboDK API in different programming languages. The RoboDK API allows simulating and programming any industrial robot (offline and online) |  C#   | Apache-2.0 | [github](https://github.com/RoboDK/RoboDK-API) | ![RoboDK/RoboDK-API](https://img.shields.io/github/stars/RoboDK/RoboDK-API.svg?style=flat&label=Star&maxAge=86400) |     |
 
 
-## ROS
+## ROS (Robot Operating System)
 > :warning: The following table is not complete. Please feel free to report if you find something incorrect or missing.
 
 | Name                               | Features | Languages | Licenses | Code                                         | Popularity | Remarks |
@@ -111,7 +111,7 @@ My starred repositories.
 
 | Name                                                                                          | Features                                                                                                   | Languages | Licenses | Code                                                                  | Popularity                                                                                                                                                       | Remarks |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------|----------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| [Word-Add-in-MarkdownConversion](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | convert a Markdown document to Word for editing and then convert the Word document back to Markdown format | js        | MIT      | [github](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | ![OfficeDev/Word-Add-in-MarkdownConversion](https://img.shields.io/github/stars/OfficeDev/Word-Add-in-MarkdownConversion.svg?style=flat&label=Star&maxAge=86400) |         |
+| [Word-Add-in-MarkdownConversion](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | convert a Markdown document to Word for editing and then convert the Word document back to Markdown format | JavaScript       | MIT      | [github](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | ![OfficeDev/Word-Add-in-MarkdownConversion](https://img.shields.io/github/stars/OfficeDev/Word-Add-in-MarkdownConversion.svg?style=flat&label=Star&maxAge=86400) |         |
 | [exceltk](https://github.com/fanfeilong/exceltk) | Convert Excel sheet to markdown, json, tex, html, image | c#        | MIT      | [github](https://github.com/fanfeilong/exceltk) | ![fanfeilong/exceltk](https://img.shields.io/github/stars/fanfeilong/exceltk.svg?style=flat&label=Star&maxAge=86400) | Windows Platform |
 | [word-to-markdown](https://github.com/benbalter/word-to-markdown) | A ruby gem to liberate content from Microsoft Word documents | Ruby      | MIT      | [github](https://github.com/benbalter/word-to-markdown) | ![benbalter/word-to-markdown](https://img.shields.io/github/stars/benbalter/word-to-markdown.svg?style=flat&label=Star&maxAge=86400) |         |
 
