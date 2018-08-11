@@ -20,6 +20,12 @@ My starred repositories.
 | [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) | a multiplatform C++ network sniffing and packet parsing and crafting framework |  C++   | Unlicense | [github](https://github.com/seladb/PcapPlusPlus) | ![seladb/PcapPlusPlus](https://img.shields.io/github/stars/seladb/PcapPlusPlus.svg?style=flat&label=Star&maxAge=86400) |     |
 
 
+## Julia
+| Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
+|----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
+| [Zygote.jl](https://github.com/FluxML/Zygote.jl) | a working prototype for source-to-source automatic differentiation (AD) in Julia |  Julia   | MIT "Expat" | [github](https://github.com/FluxML/Zygote.jl) | ![FluxML/Zygote.jl](https://img.shields.io/github/stars/FluxML/Zygote.jl.svg?style=flat&label=Star&maxAge=86400) | |
+
+
 ## Julia Robotics
 | Name                                                | Features                                        | Languages | Licenses    | Code                                            | Popularity                                                                                                           | Remarks |
 |-----------------------------------------------------|-------------------------------------------------|-----------|-------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------|
