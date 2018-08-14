@@ -76,6 +76,7 @@ My starred repositories.
 | [ARM-software/armnn](https://github.com/ARM-software/armnn) | Arm NN ML software | C++ | MIT | [github](https://github.com/ARM-software/armnn) | ![ARM-software/armnn](https://img.shields.io/github/stars/ARM-software/armnn.svg?style=flat&label=Star&maxAge=86400) | [Arm NN Software developer kit](https://developer.arm.com/products/processors/machine-learning/arm-nn) |
 | [baselines-rudder](https://github.com/ml-jku/baselines-rudder) | RUDDER for ATARI games with delayed rewards in OpenAI Baselines package | Python | MIT   | [github](https://github.com/ml-jku/baselines-rudder) | ![ml-jku/baselines-rudder](https://img.shields.io/github/stars/ml-jku/baselines-rudder.svg?style=flat&label=Star&maxAge=86400) |  |
 | [DeterministicPolicyGradient.jl](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | Reinforcement learning with Deterministic Policy Gradient methods | Julia | MPL-2.0 | [github](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | ![baggepinnen/DeterministicPolicyGradient.jl](https://img.shields.io/github/stars/baggepinnen/DeterministicPolicyGradient.jl.svg?style=flat&label=Star&maxAge=86400) |  algorithm in the paper "David Silver et al.. Deterministic Policy Gradient Algorithms. 2014." |
+| [tiny-dnn](http://tiny-dnn.readthedocs.io/en/latest/) | header only, dependency-free deep learning framework in C++14 | C++   | BSD 3-Clause | [github](https://github.com/tiny-dnn/tiny-dnn) | ![tiny-dnn/tiny-dnn](https://img.shields.io/github/stars/tiny-dnn/tiny-dnn.svg?style=flat&label=Star&maxAge=86400) |       |
 
 
 
@@ -109,6 +110,14 @@ My starred repositories.
 | [pkl](https://github.com/pfnet/pkl) |a flexible kinematic library that enables architecture-specific optimizations | C++ |  | [github](https://github.com/pfnet/pkl) | ![pfnet/pkl](https://img.shields.io/github/stars/pfnet/pkl.svg?style=flat&label=Star&maxAge=86400) |  |
 | [ur5_modeling_force_estimate](http://folk.ntnu.no/tomgra/Diplomer/Kufieta.pdf) | Modeling, Simulation and force estimation with the UR5 | C |  Apache-2.0  | [github](https://github.com/kkufieta/ur5_modeling_force_estimate) | ![kkufieta/ur5_modeling_force_estimate](https://img.shields.io/github/stars/kkufieta/ur5_modeling_force_estimate.svg?style=flat&label=Star&maxAge=86400) |  |
 | [grl](https://ahundt.github.io/grl/) | Robotics tools in C++11. Implements soft real time arm drivers for Kuka LBR iiwa plus V-REP, ROS, Constrained Optimization based planning, Hand Eye Calibration and Inverse Kinematics integration. | C++ |    | [github](https://github.com/ahundt/grl) | ![ahundt/grl](https://img.shields.io/github/stars/ahundt/grl.svg?style=flat&label=Star&maxAge=86400) |  |
+
+
+## Robot Model
+
+| Name                               | Features | Languages | Licenses | Code                                         | Popularity | Remarks |
+| ---------------------------------- | -------- | --------- | -------- | -------------------------------------------- | ---------- | ------- |
+| [jsk_model_tools](https://github.com/jsk-ros-pkg/jsk_model_tools) | JSK model utilities | C++     |  | [github](https://github.com/jsk-ros-pkg/jsk_model_tools) | ![jsk-ros-pkg/jsk_model_tools](https://img.shields.io/github/stars/jsk-ros-pkg/jsk_model_tools.svg?style=flat&label=Star&maxAge=86400) |   support ROS indigo and kinetic      |
+[urdf-loaders](https://gkjohnson.github.io/urdf-loaders/javascript/example/index.bundle.html) |URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files | JavaScript  | Apache-2.0 | [github](https://github.com/gkjohnson/urdf-loaders) | ![gkjohnson/urdf-loaders](https://img.shields.io/github/stars/gkjohnson/urdf-loaders.svg?style=flat&label=Star&maxAge=86400) |       |
 
 
 ## ROS (Robot Operating System)
@@ -157,6 +166,8 @@ My starred repositories.
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------|----------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------|
 | [SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) | Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim | C++       |          | [github](https://github.com/leggedrobotics/SimBenchmark) | ![leggedrobotics/SimBenchmark](https://img.shields.io/github/stars/leggedrobotics/SimBenchmark.svg?style=flat&label=Star&maxAge=86400) |         |
 | [modelica/ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) | Free (standard conform) library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines. Also numerical functions and functions for strings, files and streams are included. |  Modelica   | BSD-3-Clause | [github](https://github.com/modelica/ModelicaStandardLibrary) | ![modelica/ModelicaStandardLibrary](https://img.shields.io/github/stars/modelica/ModelicaStandardLibrary.svg?style=flat&label=Star&maxAge=86400) |  |
+| [ai2thor](https://github.com/allenai/ai2thor) | An open-source platform for Visual AI | C#     | Apache-2.0 | [github](https://github.com/allenai/ai2thor) | ![allenai/ai2thor](https://img.shields.io/github/stars/allenai/ai2thor.svg?style=flat&label=Star&maxAge=86400) |         |
+
 
 
 ### Rendering Engine
@@ -166,6 +177,8 @@ My starred repositories.
 | [filament](https://github.com/google/filament) | a physically based rendering engine for Android, Windows, Linux and macOS | C++, Java | Apache-2.0 | [github](https://github.com/google/filament) | ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=flat&label=Star&maxAge=86400) | Cross Platform |
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library | JavaScript |  MIT  | [github](https://github.com/mrdoob/three.js) | ![mrdoob/three.js](https://img.shields.io/github/stars/mrdoob/three.js.svg?style=flat&label=Star&maxAge=86400) |  |
 
+
+
 ## System Tools
 
 | Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
@@ -173,6 +186,7 @@ My starred repositories.
 | [trash-cli](https://github.com/andreafrancia/trash-cli) | Command line interface to the freedesktop.org trashcan |  Python   | GPL-2.0 | [github](https://github.com/andreafrancia/trash-cli) | ![andreafrancia/trash-cli](https://img.shields.io/github/stars/andreafrancia/trash-cli.svg?style=flat&label=Star&maxAge=86400) |     |
 | [autojump](https://github.com/wting/autojump) | A cd command that learns - easily navigate directories from the command line |  Python   | GPL-3.0 | [github](https://github.com/wting/autojump) | ![wting/autojump](https://img.shields.io/github/stars/wting/autojump.svg?style=flat&label=Star&maxAge=86400) |     |
 | [ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console |  Python   | GPL-3.0 | [github](https://github.com/ranger/ranger) | ![ranger/ranger](https://img.shields.io/github/stars/ranger/ranger.svg?style=flat&label=Star&maxAge=86400) |     |
+| [refined-github](https://github.com/sindresorhus/refined-github) | Browser extension that simplifies the GitHub interface and adds useful features | JavaScript   | MIT | [github](https://github.com/sindresorhus/refined-github) | ![sindresorhus/refined-github](https://img.shields.io/github/stars/sindresorhus/refined-github.svg?style=flat&label=Star&maxAge=86400) |       |
 
 
 ## Writing
