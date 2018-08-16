@@ -102,7 +102,7 @@ My starred repositories.
 | [baselines-rudder](https://github.com/ml-jku/baselines-rudder) | RUDDER for ATARI games with delayed rewards in OpenAI Baselines package | Python | MIT   | [github](https://github.com/ml-jku/baselines-rudder) | ![ml-jku/baselines-rudder](https://img.shields.io/github/stars/ml-jku/baselines-rudder.svg?style=flat&label=Star&maxAge=86400) |  |
 | [DeterministicPolicyGradient.jl](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | Reinforcement learning with Deterministic Policy Gradient methods | Julia | MPL-2.0 | [github](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | ![baggepinnen/DeterministicPolicyGradient.jl](https://img.shields.io/github/stars/baggepinnen/DeterministicPolicyGradient.jl.svg?style=flat&label=Star&maxAge=86400) |  algorithm in the paper "David Silver et al.. Deterministic Policy Gradient Algorithms. 2014." |
 | [tiny-dnn](http://tiny-dnn.readthedocs.io/en/latest/) | header only, dependency-free deep learning framework in C++14 | C++   | BSD 3-Clause | [github](https://github.com/tiny-dnn/tiny-dnn) | ![tiny-dnn/tiny-dnn](https://img.shields.io/github/stars/tiny-dnn/tiny-dnn.svg?style=flat&label=Star&maxAge=86400) |       |
-
+[quark0/darts](https://github.com/quark0/darts) | Differentiable architecture search for convolutional and recurrent networks |  Python   | Apache-2.0  | [github](https://github.com/quark0/darts) | ![quark0/darts](https://img.shields.io/github/stars/quark0/darts.svg?style=flat&label=Star&maxAge=86400) | paper: https://arxiv.org/abs/1806.09055 |
 
 
 ## Numerical calculation
