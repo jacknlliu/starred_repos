@@ -128,7 +128,7 @@ My starred repositories.
 | Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
 |----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
 | [lapack](https://github.com/Reference-LAPACK/lapack) | a library of Fortran subroutines for solving the most commonly occurring problems in numerical linear algebra | Fortran |    | [github](https://github.com/Reference-LAPACK/lapack) | ![Reference-LAPACK/lapack](https://img.shields.io/github/stars/Reference-LAPACK/lapack.svg?style=flat&label=Star&maxAge=86400) |  |
-
+| [numpy-100](https://github.com/rougier/numpy-100) |100 numpy exercises | Python   |    MIT      | [github](https://github.com/rougier/numpy-100) | ![rougier/numpy-100](https://img.shields.io/github/stars/rougier/numpy-100.svg?style=flat&label=Star&maxAge=86400) |         |
 
 
 ## Python
