@@ -10,18 +10,20 @@ My starred repositories.
 * [Computer Vision](#computer-vision)
 * [C++ Projects](#c-projects)
 * [Docker](#docker)
+* [IoT](#iot)
 * [Julia](#julia)
 * [Julia Robotics](#julia-robotics)
 * [Machine Learning](#machine-learning)
 * [Numerical calculation](#numerical-calculation)
 * [Python](#python)
 * [Robotics](#robotics)
+	* [Control System](#control-system)
 * [Robot Model](#robot-model)
 * [ROS (Robot Operating System)](#ros-robot-operating-system)
-    * [kuka-isir](#kuka-isir)
-    * [Modelica-ROS Bridge](#modelica-ros-bridge)
+	* [kuka-isir](#kuka-isir)
+	* [Modelica-ROS Bridge](#modelica-ros-bridge)
 * [Simulation](#simulation)
-  * [Rendering Engine](#rendering-engine)
+	* [Rendering Engine](#rendering-engine)
 * [System Tools](#system-tools)
 * [Writing](#writing)
 * [Others](#others)
@@ -40,6 +42,8 @@ My starred repositories.
 | [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system |           | Apache-2.0 | [github](https://github.com/bazelbuild/bazel) | ![bazelbuild/bazel](https://img.shields.io/github/stars/bazelbuild/bazel.svg?style=flat&label=Star&maxAge=86400) |         |
 | [Boost-Pretty-Printer](https://github.com/ruediger/Boost-Pretty-Printer) | GDB Pretty Printers for Boost | Python    |          | [github](https://github.com/ruediger/Boost-Pretty-Printer) | ![ruediger/Boost-Pretty-Printer](https://img.shields.io/github/stars/ruediger/Boost-Pretty-Printer.svg?style=flat&label=Star&maxAge=86400) |         |
 | [cmakeconverter](https://github.com/algorys/cmakeconverter) | conversion of Visual Studio solution to CMake projects | Python    | AGPL-3.0 | [github](https://github.com/algorys/cmakeconverter) | ![algorys/cmakeconverter](https://img.shields.io/github/stars/algorys/cmakeconverter.svg?style=flat&label=Star&maxAge=86400) | Only works with C/C++ and Fortran Project |
+|[scons](https://scons.org/) |a software construction tool | XSLT   |   | [github](https://github.com/SCons/scons) | ![SCons/scons](https://img.shields.io/github/stars/SCons/scons.svg?style=flat&label=Star&maxAge=86400) | Built-in support for C, C++, D, Java, Fortran, Yacc, Lex, Qt and SWIG, and building TeX and LaTeX documents  |
+
 
 ## Computer Vision
 | Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
@@ -50,6 +54,7 @@ My starred repositories.
 | [OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) | Real-time face recognition project with OpenCV and Python | Python |  | [github](https://github.com/Mjrovai/OpenCV-Face-Recognition) | ![Mjrovai/OpenCV-Face-Recognition](https://img.shields.io/github/stars/Mjrovai/OpenCV-Face-Recognition.svg?style=flat&label=Star&maxAge=86400) |  |
 | [face_recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line | Python | MIT | [github](https://github.com/ageitgey/face_recognition) | ![ageitgey/face_recognition](https://img.shields.io/github/stars/ageitgey/face_recognition.svg?style=flat&label=Star&maxAge=86400) | support Raspberry Pi 2+ |
 | [voxelmorph](https://github.com/voxelmorph/voxelmorph) | Unsupervised Learning for Image Registration | Python |    | [github](https://github.com/voxelmorph/voxelmorph) | ![voxelmorph/voxelmorph](https://img.shields.io/github/stars/voxelmorph/voxelmorph.svg?style=flat&label=Star&maxAge=86400) |  |
+|[luminoth](https://luminoth.ai/) |Deep Learning toolkit for Computer Vision | Python    |  BSD-3-Clause | [github](https://github.com/tryolabs/luminoth) | ![tryolabs/luminoth](https://img.shields.io/github/stars/tryolabs/luminoth.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## C++ Projects
@@ -69,6 +74,16 @@ My starred repositories.
 | [robotics_setup](https://github.com/ahundt/robotics_setup) | Setup Ubuntu 16.04 and 14.04 with machine learning and robotics software plus user configuration. Includes ceres tensorflow ros caffe vrep eigen cudnn and cuda plus many more. | Shell | Apache-2.0 | [github](https://github.com/ahundt/robotics_setup) | ![ahundt/robotics_setup](https://img.shields.io/github/stars/ahundt/robotics_setup.svg?style=flat&label=Star&maxAge=86400) |  |
 
 
+## IoT
+| Name                                                   | Features                                                                                                                                                              | Languages | Licenses | Code                                               | Popularity                                                                                                                 | Remarks |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- |
+|[amazon-freertos](https://github.com/aws/amazon-freertos) |Cloud-native IoT operating system for microcontrollers. | C   | MIT  | [github](https://github.com/aws/amazon-freertos) | ![aws/amazon-freertos](https://img.shields.io/github/stars/aws/amazon-freertos.svg?style=flat&label=Star&maxAge=86400) |   |
+|[freertos-addons](https://github.com/michaelbecker/freertos-addons) |Additions to FreeRTOS | C, C++   |   | [github](https://github.com/michaelbecker/freertos-addons) | ![michaelbecker/freertos-addons](https://img.shields.io/github/stars/michaelbecker/freertos-addons.svg?style=flat&label=Star&maxAge=86400) |   |
+|[michalmalik/linux-re-101](https://github.com/michalmalik/linux-re-101) | A collection of resources for linux reverse engineering | Markdown    |   | [github](https://github.com/michalmalik/linux-re-101) | ![michalmalik/linux-re-101](https://img.shields.io/github/stars/michalmalik/linux-re-101.svg?style=flat&label=Star&maxAge=86400) |         |
+| [IoTBench/IoTBench-test-suite](https://github.com/IoTBench/IoTBench-test-suite) | A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps | Groovy    |   | [github](https://github.com/IoTBench/IoTBench-test-suite) | ![IoTBench/IoTBench-test-suite](https://img.shields.io/github/stars/IoTBench/IoTBench-test-suite.svg?style=flat&label=Star&maxAge=86400) |         |
+|[zmap/zmap](https://github.com/zmap/zmap) |a fast single packet network scanner designed for Internet-wide network surveys | C    |  Apache-2.0 | [github](https://github.com/zmap/zmap) | ![zmap/zmap](https://img.shields.io/github/stars/zmap/zmap.svg?style=flat&label=Star&maxAge=86400) |   |
+
+
 ## Julia
 | Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
 |----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
@@ -80,6 +95,7 @@ My starred repositories.
 | [StochDynamicProgramming.jl](https://github.com/JuliaStochOpt/StochDynamicProgramming.jl) | A package for discrete-time optimal stochastic control | Julia | MPL-2.0 | [github](https://github.com/JuliaStochOpt/StochDynamicProgramming.jl) | ![JuliaStochOpt/StochDynamicProgramming.jl](https://img.shields.io/github/stars/JuliaStochOpt/StochDynamicProgramming.jl.svg?style=flat&label=Star&maxAge=86400) |  |
 | [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) | A Control Systems Toolbox for Julia | Julia | MIT | [github](https://github.com/JuliaControl/ControlSystems.jl) | ![JuliaControl/ControlSystems.jl](https://img.shields.io/github/stars/JuliaControl/ControlSystems.jl.svg?style=flat&label=Star&maxAge=86400) |  |
 | [CoordinateTransformations.jl](https://github.com/FugroRoames/CoordinateTransformations.jl) | a Julia package to manage simple or complex networks of coordinate system transformations. Transformations are designed to be light-weight and efficient enough. | Julia | MIT "Expat" | [github](https://github.com/FugroRoames/CoordinateTransformations.jl) | ![FugroRoames/CoordinateTransformations.jl](https://img.shields.io/github/stars/FugroRoames/CoordinateTransformations.jl.svg?style=flat&label=Star&maxAge=86400) |  |
+|[DifferentialDynamicProgramming.jl](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl) |A package for solving Differential Dynamic Programming and trajectory optimization problems. | Julia    | MIT "Expat"  | [github](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl) | ![baggepinnen/DifferentialDynamicProgramming.jl](https://img.shields.io/github/stars/baggepinnen/DifferentialDynamicProgramming.jl.svg?style=flat&label=Star&maxAge=86400)||
 
 
 ## Julia Robotics
@@ -103,6 +119,9 @@ My starred repositories.
 | [DeterministicPolicyGradient.jl](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | Reinforcement learning with Deterministic Policy Gradient methods | Julia | MPL-2.0 | [github](https://github.com/baggepinnen/DeterministicPolicyGradient.jl) | ![baggepinnen/DeterministicPolicyGradient.jl](https://img.shields.io/github/stars/baggepinnen/DeterministicPolicyGradient.jl.svg?style=flat&label=Star&maxAge=86400) |  algorithm in the paper "David Silver et al.. Deterministic Policy Gradient Algorithms. 2014." |
 | [tiny-dnn](http://tiny-dnn.readthedocs.io/en/latest/) | header only, dependency-free deep learning framework in C++14 | C++   | BSD 3-Clause | [github](https://github.com/tiny-dnn/tiny-dnn) | ![tiny-dnn/tiny-dnn](https://img.shields.io/github/stars/tiny-dnn/tiny-dnn.svg?style=flat&label=Star&maxAge=86400) |       |
 [quark0/darts](https://github.com/quark0/darts) | Differentiable architecture search for convolutional and recurrent networks |  Python   | Apache-2.0  | [github](https://github.com/quark0/darts) | ![quark0/darts](https://img.shields.io/github/stars/quark0/darts.svg?style=flat&label=Star&maxAge=86400) | paper: https://arxiv.org/abs/1806.09055 |
+|[pyGPs](https://github.com/marionmari/pyGPs) |pyGPs is a library containing an object-oriented python implementation for Gaussian Process (GP) regression and classification. | Python    |   | [github](https://github.com/marionmari/pyGPs) | ![marionmari/pyGPs](https://img.shields.io/github/stars/marionmari/pyGPs.svg?style=flat&label=Star&maxAge=86400) |   |
+|[nsinha280/lstm-on-Yelp-review-data](https://github.com/nsinha280/lstm-on-Yelp-review-data) |LSTM for sentiment analysis on the reviews of Yelp dataset | Python   |   | [github](https://github.com/nsinha280/lstm-on-Yelp-review-data) | ![nsinha280/lstm-on-Yelp-review-data](https://img.shields.io/github/stars/nsinha280/lstm-on-Yelp-review-data.svg?style=flat&label=Star&maxAge=86400) |   |
+|[salesforce/awd-lstm-lm](https://github.com/salesforce/awd-lstm-lm) |LSTM and QRNN Language Model Toolkit for PyTorch | Python   | BSD-3-Clause  | [github](https://github.com/salesforce/awd-lstm-lm) | ![salesforce/awd-lstm-lm](https://img.shields.io/github/stars/salesforce/awd-lstm-lm.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## Numerical calculation
@@ -124,6 +143,8 @@ My starred repositories.
 | [jupyterlab](https://github.com/jupyterlab/jupyterlab) | JupyterLab computational environment |  JavaScript   | MIT | [github](https://github.com/jupyterlab/jupyterlab) | ![jupyterlab/jupyterlab](https://img.shields.io/github/stars/jupyterlab/jupyterlab.svg?style=flat&label=Star&maxAge=86400) |  JupyterLab is the next-generation user interface for Project Jupyter. Eventually, JupyterLab will replace the classic Jupyter Notebook.|
 | [pyttsx3](https://github.com/nateshmbhat/pyttsx3) | pyttsx for python3 ( offline tts for python : works for both python2 and python3 ) | Python | MIT | [github](https://github.com/nateshmbhat/pyttsx3) | ![nateshmbhat/pyttsx3](https://img.shields.io/github/stars/nateshmbhat/pyttsx3.svg?style=flat&label=Star&maxAge=86400) |  |
 | [csvtotable](https://github.com/vividvilla/csvtotable) |   Simple command-line utility to convert CSV files to searchable and sortable HTML table. Supports large datasets and horizontal scrolling for large number of columns. |      Python     |    MIT      | [github](https://github.com/vividvilla/csvtotable) |  ![vividvilla/csvtotable](https://img.shields.io/github/stars/vividvilla/csvtotable.svg?style=flat&label=Star&maxAge=86400)          |         |
+|[pendulum](https://pendulum.eustace.io/) |Python datetimes made easy | Python    |  MIT | [github](https://github.com/sdispater/pendulum) | ![sdispater/pendulum](https://img.shields.io/github/stars/sdispater/pendulum.svg?style=flat&label=Star&maxAge=86400) |   |
+|[fabric](https://github.com/fabric/fabric) |Simple, Pythonic remote execution and deployment | Python   | BSD 2-Clause  | [github](https://github.com/fabric/fabric) | ![fabric/fabric](https://img.shields.io/github/stars/fabric/fabric.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## Robotics
@@ -142,6 +163,12 @@ My starred repositories.
 | [roboticslibrary/rl](https://www.roboticslibrary.org/) | a self-contained C++ library for robot kinematics, motion planning and control | C++ | BSD-2-Clause | [github](https://github.com/roboticslibrary/rl) | ![roboticslibrary/rl](https://img.shields.io/github/stars/roboticslibrary/rl.svg?style=flat&label=Star&maxAge=86400) |         |
 | [RobOptim](http://roboptim.net/) | a Modern, Open-Source, C++ Library for Numerical Optimization applied to Robotics | C++ | LGPL-3.0 | [github](https://github.com/roboptim/) | ![roboptim/roboptim-core](https://img.shields.io/github/stars/roboptim/roboptim-core.svg?style=flat&label=Star&maxAge=86400) |         |
 | [rbdl](https://bitbucket.org/rbdl/rbdl/src/default/) |  a C++ library that contains some essential and efficient rigid body dynamics algorithms  | C++ | zlib license | [bitbucket](https://bitbucket.org/rbdl/rbdl/src/default/) |  |         |
+
+### Control System
+| Name                                                   | Features                                                                                                                                                              | Languages | Licenses | Code                                               | Popularity                                                                                                                 | Remarks |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- |
+|[flforget/DDP](https://github.com/flforget/DDP) |Differential Dynamic Programming Solver | C++    |   | [github](https://github.com/flforget/DDP) | ![flforget/DDP](https://img.shields.io/github/stars/flforget/DDP.svg?style=flat&label=Star&maxAge=86400) |   |
+|[anassinator/ilqr](https://github.com/anassinator/ilqr) |Iterative Linear Quadratic Regulator with auto-differentiatiable dynamics models | Python   | GPL-3.0  | [github](https://github.com/anassinator/ilqr) | ![anassinator/ilqr](https://img.shields.io/github/stars/anassinator/ilqr.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## Robot Model
@@ -169,6 +196,9 @@ My starred repositories.
 | [exotica ](https://github.com/ipab-slmc/exotica) | a generic Optimisation Toolset for Robotics platforms, written in C++ with bindings for Python |  C++, Python   | BSD | [github](https://github.com/ipab-slmc/exotica) | ![ipab-slmc/exotica](https://img.shields.io/github/stars/ipab-slmc/exotica.svg?style=flat&label=Star&maxAge=86400) | ROS indigo and Kinetic |
 | [fmi_adapter](https://github.com/boschresearch/fmi_adapter) | Integrating functional mock-up units (FMUs) in ROS nodes |  C++   | Apache-2.0 | [github](https://github.com/boschresearch/fmi_adapter) | ![boschresearch/fmi_adapter](https://img.shields.io/github/stars/boschresearch/fmi_adapter.svg?style=flat&label=Star&maxAge=86400) | This repository provides the fmi_adapter package for wrapping functional mockup units (FMUs) for co-simulation of physical models into ROS nodes. |
 | [lcsr_nettools](https://github.com/jhu-lcsr/lcsr_nettools) | A ROS package containing ROS network analysis tools | C++ |    | [github](https://github.com/jhu-lcsr/lcsr_nettools) | ![jhu-lcsr/lcsr_nettools](https://img.shields.io/github/stars/jhu-lcsr/lcsr_nettools.svg?style=flat&label=Star&maxAge=86400) |  |
+|[ipa-jfh/robot_recorder](https://ipa-jfh.github.io/robot_recorder/) |Record ROS for web-animation | Python    |  BSD-3-Clause | [github](https://github.com/ipa-jfh/robot_recorder) | ![ipa-jfh/robot_recorder](https://img.shields.io/github/stars/ipa-jfh/robot_recorder.svg?style=flat&label=Star&maxAge=86400) |   |
+|[googlecartographer/cartographer_ros](https://github.com/googlecartographer/cartographer_ros) |Provides ROS integration for Cartographer | C++    |  Apache-2.0 | [github](https://github.com/googlecartographer/cartographer_ros) | ![googlecartographer/cartographer_ros](https://img.shields.io/github/stars/googlecartographer/cartographer_ros.svg?style=flat&label=Star&maxAge=86400) |   |
+|[KUKA-IIWA-API](https://github.com/jonaitken/KUKA-IIWA-API) |Ros Enable API for easy integration with the KUKA IIWA | Python    |  GPL-3.0 | [github](https://github.com/jonaitken/KUKA-IIWA-API) | ![jonaitken/KUKA-IIWA-API](https://img.shields.io/github/stars/jonaitken/KUKA-IIWA-API.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 #### [kuka-isir](https://github.com/kuka-isir)
@@ -208,7 +238,7 @@ My starred repositories.
 |------------------------------------------------|---------------------------------------------------------------------------|-----------|------------|----------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------|
 | [filament](https://github.com/google/filament) | a physically based rendering engine for Android, Windows, Linux and macOS | C++, Java | Apache-2.0 | [github](https://github.com/google/filament) | ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=flat&label=Star&maxAge=86400) | Cross Platform |
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library | JavaScript |  MIT  | [github](https://github.com/mrdoob/three.js) | ![mrdoob/three.js](https://img.shields.io/github/stars/mrdoob/three.js.svg?style=flat&label=Star&maxAge=86400) |  |
-
+| [tunabrain/tungsten](https://github.com/tunabrain/tungsten) | High performance physically based renderer in C++11 | C++11    |   | [github](https://github.com/tunabrain/tungsten) | ![tunabrain/tungsten](https://img.shields.io/github/stars/tunabrain/tungsten.svg?style=flat&label=Star&maxAge=86400) |         |
 
 
 ## System Tools
@@ -219,6 +249,9 @@ My starred repositories.
 | [autojump](https://github.com/wting/autojump) | A cd command that learns - easily navigate directories from the command line |  Python   | GPL-3.0 | [github](https://github.com/wting/autojump) | ![wting/autojump](https://img.shields.io/github/stars/wting/autojump.svg?style=flat&label=Star&maxAge=86400) |     |
 | [ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console |  Python   | GPL-3.0 | [github](https://github.com/ranger/ranger) | ![ranger/ranger](https://img.shields.io/github/stars/ranger/ranger.svg?style=flat&label=Star&maxAge=86400) |     |
 | [refined-github](https://github.com/sindresorhus/refined-github) | Browser extension that simplifies the GitHub interface and adds useful features | JavaScript   | MIT | [github](https://github.com/sindresorhus/refined-github) | ![sindresorhus/refined-github](https://img.shields.io/github/stars/sindresorhus/refined-github.svg?style=flat&label=Star&maxAge=86400) |       |
+| [resin-io/etcher](https://etcher.io/) | Flash OS images to SD cards & USB drives, safely and easily. | JavaScript    | Apache-2.0      | [github](https://github.com/resin-io/etcher) | ![resin-io/etcher](https://img.shields.io/github/stars/resin-io/etcher.svg?style=flat&label=Star&maxAge=86400) |         |
+|[Vifon/zranger](https://github.com/Vifon/zranger) | zsh and ranger integration | Shell    |   | [github](https://github.com/Vifon/zranger) | ![Vifon/zranger](https://img.shields.io/github/stars/Vifon/zranger.svg?style=flat&label=Star&maxAge=86400) |   |
+|[Vifon/deer](https://github.com/Vifon/deer) | ranger-like file navigation for zsh | Zsh    |   | [github](https://github.com/Vifon/deer) | ![Vifon/deer](https://img.shields.io/github/stars/Vifon/deer.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## Writing
@@ -228,6 +261,11 @@ My starred repositories.
 | [Word-Add-in-MarkdownConversion](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | convert a Markdown document to Word for editing and then convert the Word document back to Markdown format | JavaScript       | MIT      | [github](https://github.com/OfficeDev/Word-Add-in-MarkdownConversion) | ![OfficeDev/Word-Add-in-MarkdownConversion](https://img.shields.io/github/stars/OfficeDev/Word-Add-in-MarkdownConversion.svg?style=flat&label=Star&maxAge=86400) |         |
 | [exceltk](https://github.com/fanfeilong/exceltk) | Convert Excel sheet to markdown, json, tex, html, image | C#        | MIT      | [github](https://github.com/fanfeilong/exceltk) | ![fanfeilong/exceltk](https://img.shields.io/github/stars/fanfeilong/exceltk.svg?style=flat&label=Star&maxAge=86400) | Windows Platform |
 | [word-to-markdown](https://github.com/benbalter/word-to-markdown) | A ruby gem to liberate content from Microsoft Word documents | Ruby      | MIT      | [github](https://github.com/benbalter/word-to-markdown) | ![benbalter/word-to-markdown](https://img.shields.io/github/stars/benbalter/word-to-markdown.svg?style=flat&label=Star&maxAge=86400) |         |
+|[pandocfilters](https://github.com/jgm/pandocfilters) |A python module for writing pandoc filters, with a collection of examples | Python   | BSD 3-Clause  | [github](https://github.com/jgm/pandocfilters) | ![jgm/pandocfilters](https://img.shields.io/github/stars/jgm/pandocfilters.svg?style=flat&label=Star&maxAge=86400) |   |
+|[beamerthemezurich](https://github.com/ppletscher/beamerthemezurich) | A blue beamer theme | TeX   | BSD 3-Clause  | [github](https://github.com/ppletscher/beamerthemezurich) | ![ppletscher/beamerthemezurich](https://img.shields.io/github/stars/ppletscher/beamerthemezurich.svg?style=flat&label=Star&maxAge=86400) |   |
+|[MultiMarkdown-6](https://fletcher.github.io/MultiMarkdown-6/) |Lightweight markup processor to produce HTML, LaTeX, and more | C   |   | [github](https://github.com/fletcher/MultiMarkdown-6) | ![fletcher/MultiMarkdown-6](https://img.shields.io/github/stars/fletcher/MultiMarkdown-6.svg?style=flat&label=Star&maxAge=86400) |   |
+|[markdoc](https://github.com/ochko/markdoc) |Markdown with flowchart and sequence diagram | Ruby   |   | [github](https://github.com/ochko/markdoc) | ![ochko/markdoc](https://img.shields.io/github/stars/ochko/markdoc.svg?style=flat&label=Star&maxAge=86400) |   |
+|[svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) |a suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi | HTML   |   | [github](https://github.com/svmiller/svm-r-markdown-templates) | ![svmiller/svm-r-markdown-templates](https://img.shields.io/github/stars/svmiller/svm-r-markdown-templates.svg?style=flat&label=Star&maxAge=86400) |   |
 
 
 ## Others
@@ -236,3 +274,5 @@ My starred repositories.
 |----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
 | [fcitx-skin-collection](https://github.com/gaunthan/fcitx-skin-collection) |Collection of fcitx skins |           | GPL-3.0 | [github](https://github.com/gaunthan/fcitx-skin-collection) | ![gaunthan/fcitx-skin-collection](https://img.shields.io/github/stars/gaunthan/fcitx-skin-collection.svg?style=flat&label=Star&maxAge=86400) |         |
 | [ivideo](https://github.com/phobal/ivideo) | A client that can watch video of domestic(China) mainstream video platform |   JavaScript     | MIT | [github](https://github.com/phobal/ivideo) | ![phobal/ivideo](https://img.shields.io/github/stars/phobal/ivideo.svg?style=flat&label=Star&maxAge=86400) |     |
+|[RocketChat/Rocket.Chat](https://rocket.chat/) | The Ultimate Open Source WebChat Platform. | Markdown    |   | [github](https://github.com/RocketChat/Rocket.Chat) | ![RocketChat/Rocket.Chat](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.svg?style=flat&label=Star&maxAge=86400) |  Have your own Slack like online chat, built with Meteor.  |
+|[qTox/qTox](https://qtox.github.io/) | a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol | C++    | GPL-3.0  | [github](https://github.com/qTox/qTox) | ![qTox/qTox](https://img.shields.io/github/stars/qTox/qTox.svg?style=flat&label=Star&maxAge=86400) |   |
