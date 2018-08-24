@@ -266,7 +266,8 @@ My starred repositories.
 |[MultiMarkdown-6](https://fletcher.github.io/MultiMarkdown-6/) |Lightweight markup processor to produce HTML, LaTeX, and more | C   |   | [github](https://github.com/fletcher/MultiMarkdown-6) | ![fletcher/MultiMarkdown-6](https://img.shields.io/github/stars/fletcher/MultiMarkdown-6.svg?style=flat&label=Star&maxAge=86400) |   |
 |[markdoc](https://github.com/ochko/markdoc) |Markdown with flowchart and sequence diagram | Ruby   |   | [github](https://github.com/ochko/markdoc) | ![ochko/markdoc](https://img.shields.io/github/stars/ochko/markdoc.svg?style=flat&label=Star&maxAge=86400) |   |
 |[svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) |a suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi | HTML   |   | [github](https://github.com/svmiller/svm-r-markdown-templates) | ![svmiller/svm-r-markdown-templates](https://img.shields.io/github/stars/svmiller/svm-r-markdown-templates.svg?style=flat&label=Star&maxAge=86400) |   |
-
+| [sphinx](http://www.sphinx-doc.org/en/master/) | a tool that makes it easy to create intelligent and beautiful documentation | Python   |    BSD      | [github](https://github.com/sphinx-doc/sphinx) | ![sphinx-doc/sphinx](https://img.shields.io/github/stars/sphinx-doc/sphinx.svg?style=flat&label=Star&maxAge=86400) |         |
+| [pandoc](http://pandoc.org/) | Universal markup converter  | Haskell   |          | [github](https://github.com/jgm/pandoc) | ![jgm/pandoc](https://img.shields.io/github/stars/jgm/pandoc.svg?style=flat&label=Star&maxAge=86400) |         |
 
 ## Others
 
