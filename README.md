@@ -133,6 +133,9 @@ My starred repositories.
 |[pyGPs](https://github.com/marionmari/pyGPs) |pyGPs is a library containing an object-oriented python implementation for Gaussian Process (GP) regression and classification. | Python    |   | [github](https://github.com/marionmari/pyGPs) | ![marionmari/pyGPs](https://img.shields.io/github/stars/marionmari/pyGPs.svg?style=flat&label=Star&maxAge=86400) |   |
 |[nsinha280/lstm-on-Yelp-review-data](https://github.com/nsinha280/lstm-on-Yelp-review-data) |LSTM for sentiment analysis on the reviews of Yelp dataset | Python   |   | [github](https://github.com/nsinha280/lstm-on-Yelp-review-data) | ![nsinha280/lstm-on-Yelp-review-data](https://img.shields.io/github/stars/nsinha280/lstm-on-Yelp-review-data.svg?style=flat&label=Star&maxAge=86400) |   |
 |[salesforce/awd-lstm-lm](https://github.com/salesforce/awd-lstm-lm) |LSTM and QRNN Language Model Toolkit for PyTorch | Python   | BSD-3-Clause  | [github](https://github.com/salesforce/awd-lstm-lm) | ![salesforce/awd-lstm-lm](https://img.shields.io/github/stars/salesforce/awd-lstm-lm.svg?style=flat&label=Star&maxAge=86400) |   |
+| [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) |deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）| HTML, Markdown  |   | [github](https://github.com/fengdu78/deeplearning_ai_books) | ![fengdu78/deeplearning_ai_books](https://img.shields.io/github/stars/fengdu78/deeplearning_ai_books.svg?style=flat&label=Star&maxAge=86400) |  |
+| [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) |吴恩达老师的机器学习课程个人笔记| HTML, Markdown  |   | [github](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | ![fengdu78/Coursera-ML-AndrewNg-Notes](https://img.shields.io/github/stars/fengdu78/Coursera-ML-AndrewNg-Notes.svg?style=flat&label=Star&maxAge=86400) |  |
+| [uzh-rpg/netvlad_tf_open](https://github.com/uzh-rpg/netvlad_tf_open) |Tensorflow port of Relja/netvlad| Python  |  MIT | [github](https://github.com/uzh-rpg/netvlad_tf_open) | ![uzh-rpg/netvlad_tf_open](https://img.shields.io/github/stars/uzh-rpg/netvlad_tf_open.svg?style=flat&label=Star&maxAge=86400) |  |
 
 
 ## Numerical calculation
@@ -247,7 +250,7 @@ My starred repositories.
 | [SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) | Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim | C++       |          | [github](https://github.com/leggedrobotics/SimBenchmark) | ![leggedrobotics/SimBenchmark](https://img.shields.io/github/stars/leggedrobotics/SimBenchmark.svg?style=flat&label=Star&maxAge=86400) |         |
 | [modelica/ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) | Free (standard conform) library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines. Also numerical functions and functions for strings, files and streams are included. |  Modelica   | BSD-3-Clause | [github](https://github.com/modelica/ModelicaStandardLibrary) | ![modelica/ModelicaStandardLibrary](https://img.shields.io/github/stars/modelica/ModelicaStandardLibrary.svg?style=flat&label=Star&maxAge=86400) |  |
 | [ai2thor](https://github.com/allenai/ai2thor) | An open-source platform for Visual AI | C#     | Apache-2.0 | [github](https://github.com/allenai/ai2thor) | ![allenai/ai2thor](https://img.shields.io/github/stars/allenai/ai2thor.svg?style=flat&label=Star&maxAge=86400) |         |
-
+| [dartsim/gym-dart](https://github.com/dartsim/gym-dart) |OpenAI Gym environments using DART | Python  |  BSD-2-Clause | [github](https://github.com/dartsim/gym-dart) | ![dartsim/gym-dart](https://img.shields.io/github/stars/dartsim/gym-dart.svg?style=flat&label=Star&maxAge=86400) |  |
 
 
 ### Rendering Engine
@@ -257,12 +260,14 @@ My starred repositories.
 | [google/filament](https://github.com/google/filament) | a physically based rendering engine for Android, Windows, Linux and macOS | C++, Java | Apache-2.0 | [github](https://github.com/google/filament) | ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=flat&label=Star&maxAge=86400) | Cross Platform |
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library | JavaScript |  MIT  | [github](https://github.com/mrdoob/three.js) | ![mrdoob/three.js](https://img.shields.io/github/stars/mrdoob/three.js.svg?style=flat&label=Star&maxAge=86400) |  |
 | [tunabrain/tungsten](https://github.com/tunabrain/tungsten) | High performance physically based renderer in C++11 | C++11    |   | [github](https://github.com/tunabrain/tungsten) | ![tunabrain/tungsten](https://img.shields.io/github/stars/tunabrain/tungsten.svg?style=flat&label=Star&maxAge=86400) |         |
+| [opengl-tutorials/ogl](http://www.opengl-tutorial.org) |tutorials for OpenGL 3.3 and later| C++  |   | [github](https://github.com/opengl-tutorials/ogl) | ![opengl-tutorials/ogl](https://img.shields.io/github/stars/opengl-tutorials/ogl.svg?style=flat&label=Star&maxAge=86400) |  |
 
 
 ## System Tools
 
 | Name                                         | Features                                                     | Languages | Licenses   | Code                                          | Popularity                                                                                                       | Remarks |
 |----------------------------------------------|--------------------------------------------------------------|-----------|------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
+| [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) |Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages| C++  |  MIT | [github](https://github.com/TheAssassin/AppImageLauncher) | ![TheAssassin/AppImageLauncher](https://img.shields.io/github/stars/TheAssassin/AppImageLauncher.svg?style=flat&label=Star&maxAge=86400) |  |
 | [trash-cli](https://github.com/andreafrancia/trash-cli) | Command line interface to the freedesktop.org trashcan |  Python   | GPL-2.0 | [github](https://github.com/andreafrancia/trash-cli) | ![andreafrancia/trash-cli](https://img.shields.io/github/stars/andreafrancia/trash-cli.svg?style=flat&label=Star&maxAge=86400) |     |
 | [autojump](https://github.com/wting/autojump) | A cd command that learns - easily navigate directories from the command line |  Python   | GPL-3.0 | [github](https://github.com/wting/autojump) | ![wting/autojump](https://img.shields.io/github/stars/wting/autojump.svg?style=flat&label=Star&maxAge=86400) |     |
 | [popup-dict](https://github.com/bianjp/popup-dict) |Linux 下的划词翻译小工具  | Python  | MIT  | [github](https://github.com/bianjp/popup-dict) | ![bianjp/popup-dict](https://img.shields.io/github/stars/bianjp/popup-dict.svg?style=flat&label=Star&maxAge=86400) |  |
@@ -290,6 +295,9 @@ My starred repositories.
 |[svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) |a suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi | HTML   |   | [github](https://github.com/svmiller/svm-r-markdown-templates) | ![svmiller/svm-r-markdown-templates](https://img.shields.io/github/stars/svmiller/svm-r-markdown-templates.svg?style=flat&label=Star&maxAge=86400) |   |
 | [sphinx](http://www.sphinx-doc.org/en/master/) | a tool that makes it easy to create intelligent and beautiful documentation | Python   |    BSD      | [github](https://github.com/sphinx-doc/sphinx) | ![sphinx-doc/sphinx](https://img.shields.io/github/stars/sphinx-doc/sphinx.svg?style=flat&label=Star&maxAge=86400) |         |
 | [pandoc](http://pandoc.org/) | Universal markup converter  | Haskell   |          | [github](https://github.com/jgm/pandoc) | ![jgm/pandoc](https://img.shields.io/github/stars/jgm/pandoc.svg?style=flat&label=Star&maxAge=86400) |         |
+| [latex_in_word](https://github.com/EngineeroLabs/latex_in_word) |LaTeX equation edition in a macro-enabled Word document  | Python  |   | [github](https://github.com/EngineeroLabs/latex_in_word) | ![EngineeroLabs/latex_in_word](https://img.shields.io/github/stars/EngineeroLabs/latex_in_word.svg?style=flat&label=Star&maxAge=86400) |  |
+| [Process_LaTeX](https://github.com/EngineeroLabs/Process_LaTeX) |Server files for LaTeX in Word.  | TeX  | GPL  | [github](https://github.com/EngineeroLabs/Process_LaTeX) | ![EngineeroLabs/Process_LaTeX](https://img.shields.io/github/stars/EngineeroLabs/Process_LaTeX.svg?style=flat&label=Star&maxAge=86400) |  |
+
 
 ## Others
 
